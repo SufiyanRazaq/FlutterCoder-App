@@ -44,9 +44,9 @@ Flutter App Builder is an intuitive **drag-and-drop UI editor** that allows user
 ## 📥 Try It Now!  
 🔗 **Download APK:** [https://drive.google.com/file/d/1lAWuiV-w4_KGq8aB_HLjHuF5OY7dxGP0/view?usp=sharing](#) *(Insert APK link here)*  
 
-📽 **Demo Video:** [Watch on YouTube](#) *(Insert demo video link here)*  
+📽 **Demo Video:** [[Watch on YouTube](https://youtu.be/MvagBJQOy4g)](#) *(Insert demo video link here)*  
 
-🌍 **Visit Our Website:** [[FlutterCoder.com](http://sufiyanrazaq.com/)](#) *(If applicable)*  
+🌍 **Visit Our Website:** [[sufiyanrazaq.com](http://sufiyanrazaq.com/)](#) *(If applicable)*  
 
 📧 **Contact Us:** [me@sufiyanrazaq.com](mailto:me@sufiyanrazaq.com)  
 
